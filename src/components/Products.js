@@ -1,0 +1,5 @@
+const articals=[{name:'Smith machain',quantity:3,weight:'180kg',price:'3500Dt',discription:'Popular Smith machain Function training Adult Fitness equipment Body shape Customized equipment',image:'https://s.alicdn.com/@sc04/kf/H2ee5d380993945779f59d793618606e9c.png_300x300.jpg'},
+{name:'Sprint Resistance',quantity:10,weight:'55kg',price:'1500Dt',discription:'Sprint Resistance Training Equipment For Professional Athletes Equipment For Gym',image:'https://s.alicdn.com/@sc04/kf/H7103b8a2537246d3899e8590f014069eK.png_300x300.jpg'},
+{name:'Fitness Cast Iron',quantity:40,weight:'20kg',price:'500Dt',discription:'Gym Equipment Fitness Cast Iron Fitness Equipment Free Weights Gym Dumbbell',image:'https://s.alicdn.com/@sc04/kf/H5b054cd83780426bb26a45df96d2b7ffI.jpg_300x300.jpg'},
+{name:'Double Surfboard Outdoor',quantity:15,weight:'22kg',price:'500Dt',discription:'Double Surfboard Outdoor Gym Equipment Body Strong Gym Fitness Equipment Pendumlum',image:'https://s.alicdn.com/@sc04/kf/HTB1nJHPpr9YBuNjy0Fgq6AxcXXaM.jpg_300x300.jpg'}]
+export default articals 
